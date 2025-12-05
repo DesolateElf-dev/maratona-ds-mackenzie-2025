@@ -64,3 +64,6 @@ submissions/*.csv
 # Optuna
 optuna.db
 *.db
+
+# Folders
+notebooks/catboost_info
